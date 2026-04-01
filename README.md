@@ -50,6 +50,12 @@ A minimalist, 8-bit memorial for abandoned software projects.
 
 ---
 
+### 🌳 Skill Tree
+
+![Skill Tree](https://github-skillstree.zeabur.app/api/skill-tree?username=Adaimade)
+
+---
+
 ### 🛠️ Tech Stack
 *   **Languages**: Python, JavaScript
 *   **AI**: Gemini, OpenAI, LLM Agents
