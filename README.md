@@ -52,7 +52,8 @@ A minimalist, 8-bit memorial for abandoned software projects.
 
 ### 🌳 Skill Tree
 
-![Skill Tree](https://github-skillstree.zeabur.app/api/skill-tree?username=Adaimade&v=2)
+![Skill Tree](https://github-skillstree.zeabur.app/api/skill-tree?username=Adaimade&v=3)
+
 
 
 ---
