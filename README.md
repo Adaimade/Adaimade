@@ -24,12 +24,6 @@ Self-expanding AI assistant that runs locally and communicates via Telegram. Exe
 **Features**: Multi-model support • Parallel sub-agents • Self-expansion • Local execution • Scheduled notifications
 **Stack**: Python 3.10+ • Claude, OpenAI, Gemini • Telegram API
 
-#### 📧 [mail_bot](https://github.com/Adaimade/mail_bot)
-
-Intelligent Gmail dashboard powered by Claude AI. Automatically filter, summarize, and organize emails across multiple accounts with smart classification and learning.
-
-**Features**: Smart filtering • Contextual classification • AI-suggested labels • Learning system • Multi-account support
-**Stack**: Python • Flask • Claude AI • Gmail API • Tailwind CSS
 
 ---
 
@@ -41,20 +35,14 @@ A minimalist, 8-bit memorial for abandoned software projects.
 *Built with Flask, Gemini AI, and a touch of melancholy.*
 
 > *"The code compiles. The tests pass. But the project... sleeps."*
+🌳 Skill Tree
+📧 [mail_bot](https://github.com/Adaimade/mail_bot)
 
 ---
 
 ### ⚠️ System Status (Hunter ID)
 
 ![System Alert Card](https://project-systemalert.zeabur.app/api/card?username=Adaimade)
-
----
-
-### 🌳 Skill Tree
-
-![Skill Tree](https://githubskillstree.zeabur.app/api/skill-tree?username=Adaimade)
-
-
 
 
 ---
