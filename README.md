@@ -51,8 +51,3 @@ macOS menu bar monitor. CPU, memory, disk — click for details. Swift, no netwo
 *   **Tools**: Docker, N8N, Cloudflare
 *   **Vibe**: 8-bit, Retro, Cyberpunk, Unrelated Things Glued Together
 
----
-
-<p align="center">
-  Made with 🖤 by <b>ADAIMADE</b> & <b>SlantKing</b>
-</p>
