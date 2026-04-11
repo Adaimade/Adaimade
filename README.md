@@ -1,9 +1,5 @@
 # Hi there, I'm Adaimade 👋
 
-> *A weirdo who keeps mashing unrelated things together and seeing what happens.*
-
-I write Rust for fun, build strange little tools nobody asked for, and occasionally make something that actually works. My projects don't have a theme — that's the theme.
-
 ---
 
 ### 🦀 Rust Projects
