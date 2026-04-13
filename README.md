@@ -2,7 +2,7 @@
 
 ---
 
-### 🦀 Rust Projects
+## 🦀 Rust Projects
 
 #### ⚡ [RustClaw](https://github.com/Adaimade/RustClaw)
 
@@ -14,7 +14,7 @@ Long-term memory for AI agents, in Rust. Vector memory + graph memory + history,
 
 ---
 
-### 🧪 Small Things I Made
+## 🧪 Small Things I Made
 
 #### ⚰️ [Digital Graveyard](https://github.com/Adaimade/digital-graveyard) — [Visit](https://digital-graveyard.zeabur.app)
 
@@ -34,16 +34,27 @@ macOS menu bar monitor. CPU, memory, disk — click for details. Swift, no netwo
 
 ---
 
-### 🛠️ Also Around
+## 🛠️ Also Around
 
 - **[HydraBot](https://github.com/Adaimade/HydraBot)** — Self-expanding local AI assistant. Telegram/Discord/CLI, multi-model, parallel sub-agents, runtime tool creation.
 - **[Aimade-platform](https://github.com/Adaimade/Aimade-platform)** — Deploy AI Discord bots in 30 seconds. Cloudflare ecosystem, no code required.
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
+
 *   **Languages**: Rust, Python, JavaScript, Swift
 *   **AI**: Claude, Gemini, OpenAI, Ollama
 *   **Tools**: Docker, N8N, Cloudflare
 *   **Vibe**: 8-bit, Retro, Cyberpunk, Unrelated Things Glued Together
+
+---
+
+## 📁 Project List
+
+- [RustClaw](#rustclaw)
+- [R-Mem](#r-mem)
+- [Digital Graveyard](#digital-graveyard)
+- [Project_SystemAlert](#project_systemalert)
+- [systemee](#systemee)
 
